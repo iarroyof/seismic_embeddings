@@ -12,4 +12,6 @@ In next picture you can be the 15 nearest neighbors of the earthquake occurred i
 
 ![](https://github.com/iarroyof/seismic_embeddings/blob/master/figures/19S1985_W2V_20d.png)
 
-We are not experts in seismic science, however, data show that in both cases (1985 and 2017) there are related poits. For example, in the pictures, look for the hearthquake occurred in May 2017.
+We are not experts in seismic science, however, data show that in both cases (1985 and 2017) there are related poits. For example, in the pictures, look for a number of hearthquakes occurred in April 2017 which are considered to be in the context of those occured in September. Similarly, there are a number of hearthquakes occurred during September, near to the main one ocurred in 19S 2017.
+
+It is pendding to observe in detail what makes those hearthquakes similar.
