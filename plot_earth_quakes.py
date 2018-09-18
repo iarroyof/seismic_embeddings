@@ -13,12 +13,12 @@ rc('text', usetex=True)
 from pdb import set_trace as st
 
 
-k = 10
+k = 15
 d = "20"
-#q = '2017-09-1913h'
-q = "2003-01-2120h"
-embed_name = ("seismic_LSAembeddings_%s.vec" % d, False)
-#embed_name = ("word2vec_%sd_w3.bin" % d, True)
+q = '2017-09-19' #13h'
+#q = "1985-09-19" #07h"
+#embed_name = ("seismic_LSAembeddings_%s.vec" % d, False)
+embed_name = ("word2vec_%sd_w3.bin" % d, True)
 
 
 def display_closest_earthquakes(model, word):
